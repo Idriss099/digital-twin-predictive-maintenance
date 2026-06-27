@@ -151,6 +151,22 @@ I am actively seeking **PhD opportunities** in:
 - Predictive Maintenance & PHM
 - Industry 4.0 / Cyber-Physical Systems
 
+  ## 📸 System in Action
+
+### ✅ Normal Operation — Health 95.1%
+![Healthy](screenshot_healthy.png)
+
+### 📊 Real-time Sensor Charts
+![Charts](screenshot_realtime_charts.png)
+
+### 🚨 AI Anomaly Detection — P=0.97
+![Anomaly](screenshot_anomaly_detected.png)
+
+### 📧 Automatic Email Alert
+![Email](screenshot_email_alert.png)
+> System automatically sent email alert with fault details,
+> RUL estimation (~0 min), and recommended action.
+
 **Email:** bencheikhmohamed800@gmail.com  
 **LinkedIn:** linkedin.com/in/fresh-highachievingautomationengineer-bencheikh-mohamedidris
 
