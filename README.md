@@ -154,16 +154,16 @@ I am actively seeking **PhD opportunities** in:
   ## 📸 System in Action
 
 ### ✅ Normal Operation — Health 95.1%
-![Healthy](screenshot_healthy.png)
+![Healthy](Healthy.png)
 
 ### 📊 Real-time Sensor Charts
-![Charts](screenshot_realtime_charts.png)
+![Charts](Charts.png)
 
 ### 🚨 AI Anomaly Detection — P=0.97
-![Anomaly](screenshot_anomaly_detected.png)
+![Anomaly](Anomaly.png)
 
 ### 📧 Automatic Email Alert
-![Email](screenshot_email_alert.png)
+![Email](Email.png)
 > System automatically sent email alert with fault details,
 > RUL estimation (~0 min), and recommended action.
 
