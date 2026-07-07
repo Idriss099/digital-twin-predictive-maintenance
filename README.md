@@ -170,3 +170,61 @@ I am actively seeking **PhD opportunities** in:
 **Email:** bencheikhmohamed800@gmail.com  
 **LinkedIn:** linkedin.com/in/fresh-highachievingautomationengineer-bencheikh-mohamedidris
 
+## 🔬 Benchmark — CWRU Bearing Fault Dataset
+
+
+|
+ Model 
+|
+ Accuracy 
+|
+ F1-Score 
+|
+|
+-------
+|
+----------
+|
+----------
+|
+|
+ Random Forest 
+|
+ 100.00% 
+|
+ 1.000 
+|
+ ✅
+|
+ Gradient Boosting 
+|
+ 100.00% 
+|
+ 1.000 
+|
+|
+ SVM (RBF) 
+|
+ 100.00% 
+|
+ 1.000 
+|
+|
+ KNN 
+|
+ 100.00% 
+|
+ 1.000 
+|
+
+![Signals](cwru_signals.png)
+![Confusion Matrix](confusion_matrix_cwru.png)
+![Feature Importance](feature_importance_cwru.png)
+![Model Comparison](model_comparison_cwru.png)
+
+## 🌡️ Real Hardware — Anomaly Detection in Action
+
+![Anomaly Detection](anomaly_detection_realtime.png)
+
+> Motor temperature rose from 26°C to 89°C.
+> AI detected anomaly in real-time and triggered automated alerts.
