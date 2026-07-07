@@ -166,11 +166,8 @@ I am actively seeking **PhD opportunities** in:
 ![Email](Email.png)
 > System automatically sent email alert with fault details,
 > RUL estimation (~0 min), and recommended action.
-
-**Email:** bencheikhmohamed800@gmail.com  
-**LinkedIn:** linkedin.com/in/fresh-highachievingautomationengineer-bencheikh-mohamedidris
-
-## 🔬 Benchmark — CWRU Bearing Fault Dataset
+>
+> ## 🔬 Benchmark — CWRU Bearing Fault Dataset
 
 
 |
@@ -217,14 +214,25 @@ I am actively seeking **PhD opportunities** in:
  1.000 
 |
 
+**Best model:** Random Forest → **100.00% accuracy**
+
+4 classes: Normal · Ball Fault · Inner Race · Outer Race  
+11 features: RMS, Peak, Crest Factor, Kurtosis, Skewness, FFT Mean, FFT Std, FFT Max, Spectral Centroid, Std, Shape Factor  
+1600 windows · 80/20 split · 12 kHz sampling rate
+
 ![Signals](cwru_signals.png)
+![Model Comparison](model_comparison_cwru.png)
 ![Confusion Matrix](confusion_matrix_cwru.png)
 ![Feature Importance](feature_importance_cwru.png)
-![Model Comparison](model_comparison_cwru.png)
 
 ## 🌡️ Real Hardware — Anomaly Detection in Action
 
 ![Anomaly Detection](anomaly_detection_realtime.png)
 
-> Motor temperature rose from 26°C to 89°C.
-> AI detected anomaly in real-time and triggered automated alerts.
+> Motor temperature rose from **26°C to 89°C**.  
+> AI detected anomaly in real-time and triggered automated email alerts.  
+> Combined with CWRU benchmark (100% accuracy), this confirms 
+> cross-domain robustness across both controlled and real industrial conditions.
+
+**Email:** bencheikhmohamed800@gmail.com  
+**LinkedIn:** linkedin.com/in/fresh-highachievingautomationengineer-bencheikh-mohamedidris
